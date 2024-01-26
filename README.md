@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Silvanusmaximus
 - 👀 I’m interested in Gaming and Coding
 - 🌱 I’m currently learning about Bitcoin Cli,java script and Nerd Attack Cli
-- 💞️ I’m looking to collaborate on Bitcoin Cli's
+- 💞️ I’m looking to collaborate on Java script
 - 📫 How to reach me on Github
 - 😄 Pronouns: He Him
 - ⚡ Fun fact: If you want to piss lightning you must fuck the storm.And i'm new on Github
